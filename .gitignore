@@ -1,0 +1,14 @@
+.DS_Store
+.ipynb*
+bin/
+include/
+lib/
+share/
+pip-selfcheck.json
+pyvenv.cfg
+AB*
+Craig*
+JIRA*
+LP*
+MER*
+WF*
